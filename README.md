@@ -3,7 +3,7 @@ Repository for the implementation of the simulation the Energy Trails game, whic
     and
     dr. Wico Mulder (TNO, Groningen). 
 
-Original code, which this code was based on, was written by [Harmen de Weerd](https://www.harmendeweerd.nl/). This code can be found in the branch 'Original-Harmen'. 
+Original code, which this code was based on, was written by [Harmen de Weerd](https://www.harmendeweerd.nl/). 
 
 ## How to run
 
