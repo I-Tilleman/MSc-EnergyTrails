@@ -1,0 +1,11 @@
+TNO
+-
+venv
+__pycache__
+EnergyTrails/__pycache__
+changelog.md
+diagram.png
+diagram.wsd
+plantuml.jar
+settings.json
+tests/*-local
